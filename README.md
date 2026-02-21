@@ -7,3 +7,6 @@ Run locally:
 
 Regenerate SVG:
 - python3 generate_svg.py
+
+Open in browser:
+https://www.sapozhkov.net/edge2edge
